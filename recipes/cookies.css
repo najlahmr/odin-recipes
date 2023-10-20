@@ -1,0 +1,46 @@
+h1 {
+    font-size: 80px;
+    color:rgb(255, 255, 255);
+    font-family:Georgia;
+    text-align: center;
+    background-color: burlywood;
+
+}
+img {
+    margin: auto;
+}
+h2 {
+    background-color: burlywood;
+    color:white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:35px;
+}
+
+p {
+    font-style:italic;
+    color:rgb(113, 61, 40);
+    font-family:Georgia;
+    font-size:16px;
+}
+html {
+    background-color:#eed3bb;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+h3{
+    color:white;
+    font-family:georgia;
+    background-color:burlywood;
+    font-size:18px;
+    font-style:italic;
+    text-align:center;
+}
+ol,li{
+    color:rgb(85, 50, 36);
+    text-align:center;
+    font-size:18px;
+    font-family:Georgia;
+}

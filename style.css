@@ -1,12 +1,20 @@
-.title {
+h1 {
     font-size: 60px;
-    font-family:'Lucida Handwriting', Verdana, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    color:203, 65, 28;
+    background-color:rgb(198, 100, 100);
+    color:white;
 } 
 
 .list {
-    text-align:center;
-
+    text-align:left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    color:rgb(198, 100, 100);
+    
+    
+}
+html {
+    background-color:rgb(254, 215, 221);
 }
 
