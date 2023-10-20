@@ -1,0 +1,28 @@
+h1,h2,h3{
+    text-align: center;
+    background-color: rgb(233, 208, 96);
+    color:white;
+    font-family: Georgia;
+}
+html{
+    background-color:rgb(249, 231, 182)
+}
+p,h3 {
+    font-style:italic;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+ol,ul,p {
+    color:rgb(79, 49, 30);
+    font-family:Georgia;
+    text-align:center;
+}
+h1 {
+    font-size:60px;
+}
+h2{
+    font-size:35px;
+}
