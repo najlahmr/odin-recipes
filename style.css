@@ -1,10 +1,10 @@
-h1 {
+.title {
     font-size: 60px;
     font-family:'Lucida Handwriting', Verdana, sans-serif;
     text-align: center;
     color:203, 65, 28;
 } 
-li,ol{
+.list {
     text-align:center;
 
 }
